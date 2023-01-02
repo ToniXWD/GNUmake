@@ -3,3 +3,4 @@ a:
 
 clean:
 	rm -rf *.out
+	@echo "Remove success!"
